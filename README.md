@@ -2,7 +2,7 @@
 
 **Python Developer**
 
-I build backends for web apps and integrations — REST APIs, payment flows, Telegram bots, and async workers. Comfortable owning a feature from task breakdown to deploy and support.
+I build backends for web apps and integrations - REST APIs, payment flows, Telegram bots, and async workers. Comfortable owning a feature from task breakdown to deploy and support.
 
 
 ---
