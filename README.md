@@ -1,16 +1,23 @@
-## Hi there 👋
+# Artem Parshyn
 
-<!--
-**ArtemParshyn/ArtemParshyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Developer** · 3 years of commercial backend experience
 
-Here are some ideas to get you started:
+I build backends for web apps and integrations — REST APIs, payment flows, Telegram bots, and async workers. Comfortable owning a feature from task breakdown to deploy and support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+- Django / FastAPI backends on VPS (Nginx)
+- Integrations: REST, webhooks, OAuth2/JWT, payment gateways & crypto exchanges
+- Telegram bots for customer automation
+- Background jobs with Celery + Redis; PostgreSQL (schema design, SQL, transactions)
+- Code review, refactors, pytest
+
+### Stack
+`Python` · `Django` · `FastAPI` · `PostgreSQL` · `Redis` · `Celery` · `RabbitMQ` · `Docker` · `Nginx` · `Telegram Bot API`
+
+Also: Pydantic, WebSockets · exploring Rust / Actix Web
+
+### Education
+Don State Technical University (DSTU) — 4th year, expected graduation 2027
+
+### Languages
+Russian (native) · English (C1, IELTS) · Turkish (A2)
